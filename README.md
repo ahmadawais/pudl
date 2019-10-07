@@ -10,11 +10,11 @@
     </tr>
     <tr>
         <td>
-            A FOSS (Free & Open Source Software) project. Maintained by <a href='https://github.com/maedahbatool'>@MaedahBatool</a>.
+            A FOSS (Free & Open Source Software) project. Maintained by <a href='https://github.com/maedahbatool'>@FikriEl</a>.
         </td>
         <td align='center'>
-            <a href='https://MaedahBatool.com/'>
-                <img src='https://img.shields.io/badge/→-MAEDAH%20BATOOL-gray.svg?colorB=5734F5&style=flat-square' width='100' />
+            <a href='https://google.com/'>
+                <img src='https://img.shields.io/badge/→-MAEDAH%30BATOOL-gray.svg?colorZ=5734F5&style=flat-square' width='200' />
             </a>
         </td>
     </tr>
