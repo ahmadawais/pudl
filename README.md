@@ -14,7 +14,7 @@
         </td>
         <td align='center'>
             <a href='https://MaedahBatool.com/'>
-                <img src='https://img.shields.io/badge/→-MAEDAH%20BATOOL-gray.svg?color=5784F6&style=flat-square' width='160' height="100%" />
+                <img src='https://img.shields.io/badge/→-MAEDAH%20BATOOL-gray.svg?color=6454F6&style=flat-square' width='150' height="100%" />
             </a>
         </td>
     </tr>
