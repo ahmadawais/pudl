@@ -92,7 +92,7 @@ npm install
 
 ### ➡️ STEP #4: Just run `npm start`
 
-Finally run the following command to get up and running with pudl.
+Finally run the following command to get up and running with `pudl`.
 
 ```sh
 # To start pudl
